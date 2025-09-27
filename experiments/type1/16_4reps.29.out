@@ -1,0 +1,18 @@
+solved:	true
+solution_length:	12
+upper_bound:	12
+solution_runtime:	0.000780217
+heuristic_solution_length:	12
+heuristic_solution_runtime:	0.00033375
+heuristic_runtime:	0.000722582
+solving_forward:	true
+reduction_is_complete:	true
+reduction_quality:	1
+reduction_upper_bound:	12
+reduction_runtime:	5.749e-05
+mdd_memory_consumption:	0
+main_process_memory_consumption:	0
+solver_solution_length:	12
+solver_upper_bound:	12
+solver_runtime:	1.45e-07
+solution:	[2, 1, 3, 14, 10, 4, 6, 13, 12, 11, 7, 15, ]
