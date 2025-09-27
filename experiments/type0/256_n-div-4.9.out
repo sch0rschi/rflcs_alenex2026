@@ -1,0 +1,18 @@
+solved:	true
+solution_length:	44
+upper_bound:	44
+solution_runtime:	0.118756
+heuristic_solution_length:	44
+heuristic_solution_runtime:	0.00715377
+heuristic_runtime:	0.0668071
+solving_forward:	false
+reduction_is_complete:	true
+reduction_quality:	1
+reduction_upper_bound:	44
+reduction_runtime:	0.0519487
+mdd_memory_consumption:	54128
+main_process_memory_consumption:	0
+solver_solution_length:	44
+solver_upper_bound:	44
+solver_runtime:	2.08e-07
+solution:	[20, 1, 11, 17, 31, 46, 10, 4, 40, 6, 53, 44, 16, 28, 19, 43, 2, 37, 22, 54, 13, 23, 59, 27, 62, 33, 48, 47, 63, 45, 50, 61, 52, 26, 18, 42, 14, 8, 60, 55, 34, 49, 25, 36, ]

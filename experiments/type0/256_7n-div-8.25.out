@@ -1,0 +1,18 @@
+solved:	true
+solution_length:	28
+upper_bound:	28
+solution_runtime:	0.00491314
+heuristic_solution_length:	28
+heuristic_solution_runtime:	0.00298796
+heuristic_runtime:	0.00468791
+solving_forward:	true
+reduction_is_complete:	true
+reduction_quality:	1
+reduction_upper_bound:	28
+reduction_runtime:	0.000225092
+mdd_memory_consumption:	0
+main_process_memory_consumption:	0
+solver_solution_length:	28
+solver_upper_bound:	28
+solver_runtime:	1.42e-07
+solution:	[113, 220, 6, 122, 135, 140, 132, 94, 28, 164, 188, 137, 63, 48, 131, 52, 2, 124, 199, 67, 201, 133, 17, 156, 114, 31, 151, 96, ]

@@ -1,0 +1,18 @@
+solved:	true
+solution_length:	15
+upper_bound:	15
+solution_runtime:	0.000765218
+heuristic_solution_length:	15
+heuristic_solution_runtime:	0.00069617
+heuristic_runtime:	0.000741366
+solving_forward:	true
+reduction_is_complete:	true
+reduction_quality:	1
+reduction_upper_bound:	15
+reduction_runtime:	2.3704e-05
+mdd_memory_consumption:	0
+main_process_memory_consumption:	0
+solver_solution_length:	15
+solver_upper_bound:	15
+solver_runtime:	1.48e-07
+solution:	[6, 14, 28, 17, 26, 16, 29, 3, 5, 10, 24, 15, 23, 9, 1, ]

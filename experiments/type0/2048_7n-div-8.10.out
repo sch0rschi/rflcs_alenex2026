@@ -1,0 +1,18 @@
+solved:	true
+solution_length:	84
+upper_bound:	84
+solution_runtime:	0.284526
+heuristic_solution_length:	84
+heuristic_solution_runtime:	0.114482
+heuristic_runtime:	0.27447
+solving_forward:	true
+reduction_is_complete:	true
+reduction_quality:	1
+reduction_upper_bound:	84
+reduction_runtime:	0.0100555
+mdd_memory_consumption:	0
+main_process_memory_consumption:	0
+solver_solution_length:	84
+solver_upper_bound:	84
+solver_runtime:	9.6e-08
+solution:	[321, 1615, 1066, 1762, 582, 1018, 711, 1291, 1722, 51, 1406, 1043, 1701, 347, 1519, 797, 930, 1028, 270, 349, 1252, 1458, 692, 1678, 306, 75, 402, 1318, 721, 1587, 1213, 412, 594, 1322, 1494, 619, 1069, 735, 1419, 995, 1385, 517, 130, 99, 864, 651, 678, 1315, 905, 229, 151, 1007, 360, 457, 654, 1274, 1760, 274, 1170, 1426, 476, 307, 608, 1547, 1148, 1341, 854, 1737, 836, 1639, 954, 1201, 1063, 1122, 1260, 1579, 1546, 1666, 1250, 1006, 442, 1605, 1671, 1118, ]
