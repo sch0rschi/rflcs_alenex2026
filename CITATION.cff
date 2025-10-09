@@ -1,0 +1,12 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- given-names: Georg
+  family-names: Braun
+- given-names: Kathrin
+  family-names: Hanauer
+- given-names: Maximilian
+  family-names: Vötsch
+title: rflcs/rflcs_alenex2026
+version: v1.0-2025-10-09
+date-released: 2025-10-09
