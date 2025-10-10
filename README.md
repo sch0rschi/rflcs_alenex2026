@@ -156,3 +156,13 @@ This project includes third-party libraries (under external/) under the followin
 - [Abseil](https://github.com/abseil/abseil-cpp/blob/master/LICENSE) — Apache License 2.0
 
 These are compatible with the GPLv3 license under which this project is released.
+
+## Citation
+
+If you use frflcso for your own research or work, please cite our paper as follows:
+
+Georg Braun, Kathrin Hanauer, Maximilian Vötsch. New Heuristic and Multivalued Decision Diagram-based Exact Algorithms for Repetition-Free Longest Common Subsequence Problems. In 2026 Proceedings of the Symposium on Algorithm Engineering and Experiments (ALENEX). Society for Industrial and Applied Mathematics, 2026.
+
+You can also cite our code as:
+
+Georg Braun, Kathrin Hanauer, Maximilian Vötsch. (2025). frflcso/frflcso. Zenodo. https://doi.org/10.5281/zenodo.17214513

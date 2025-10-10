@@ -1,14 +1,35 @@
-cff-version: 1.1.0
+cff-version: 1.2.0
+message: >
+  If you use frflcso in your research or work, please cite the following paper.
 authors:
-- given-names: Georg
-  family-names: Braun
-  orcid: https://orcid.org/0009-0005-8369-8663
-- given-names: Kathrin
-  family-names: Hanauer
-  orcid: https://orcid.org/0000-0002-5945-837X
-- given-names: Maximilian
-  family-names: Vötsch
-  orcid: https://orcid.org/0009-0006-6793-6745
-title: rflcs/rflcs_alenex2026
-version: v1.0-2025-10-09
-date-released: 2025-10-09
+  - given-names: Georg
+    family-names: Braun
+    orcid: https://orcid.org/0009-0005-8369-8663
+  - given-names: Kathrin
+    family-names: Hanauer
+    orcid: https://orcid.org/0000-0002-5945-837X
+  - given-names: Maximilian
+    family-names: Vötsch
+    orcid: https://orcid.org/0009-0006-6793-6745
+title: frflcso/frflcso
+version: v1.0-2025-10-10
+date-released: 2025-10-10
+doi: 10.5281/zenodo.17214513
+repository-code: https://github.com/sch0rschi/rflcs_alenex2026
+url: https://doi.org/10.5281/zenodo.17214513
+preferred-citation:
+  type: conference-paper
+  title: "New Heuristic and Multivalued Decision Diagram-based Exact Algorithms for Repetition-Free Longest Common Subsequence Problems"
+  authors:
+    - given-names: Georg
+      family-names: Braun
+      orcid: https://orcid.org/0009-0005-8369-8663
+    - given-names: Kathrin
+      family-names: Hanauer
+      orcid: https://orcid.org/0000-0002-5945-837X
+    - given-names: Maximilian
+      family-names: Vötsch
+      orcid: https://orcid.org/0009-0006-6793-6745
+  collection-title: "Proceedings of the Symposium on Algorithm Engineering and Experiments (ALENEX)"
+  year: 2026
+  publisher: "Society for Industrial and Applied Mathematics (SIAM)"
