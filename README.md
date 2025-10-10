@@ -157,6 +157,8 @@ This project includes third-party libraries (under external/) under the followin
 
 These are compatible with the GPLv3 license under which this project is released.
 
+---
+
 ## Citation
 
 If you use frflcso for your own research or work, please cite our paper as follows:

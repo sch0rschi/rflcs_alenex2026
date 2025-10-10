@@ -1,7 +1,11 @@
 cff-version: 1.2.0
-message:
-  "If you use frflcso in your research or work, please cite the following paper:
-  Georg Braun, Kathrin Hanauer, Maximilian Vötsch. New Heuristic and Multivalued Decision Diagram-based Exact Algorithms for Repetition-Free Longest Common Subsequence Problems. In 2026 Proceedings of the Symposium on Algorithm Engineering and Experiments (ALENEX). Society for Industrial and Applied Mathematics, 2026."
+message: >
+  If you use frflcso in your research or work, please cite the following paper
+
+  Georg Braun, Kathrin Hanauer, and Maximilian Vötsch.
+  "New Heuristic and Multivalued Decision Diagram-based Exact Algorithms
+  for Repetition-Free Longest Common Subsequence Problems."
+  Proceedings of ALENEX 2026, SIAM, 2026.
 authors:
   - given-names: Georg
     family-names: Braun
@@ -13,8 +17,8 @@ authors:
     family-names: Vötsch
     orcid: https://orcid.org/0009-0006-6793-6745
 title: frflcso/frflcso
-version: v1.0-2025-10-10(2)
-date-released: 2025-10-10(2)
+version: v1.0-2025-10-10(3)
+date-released: 2025-10-10(3)
 doi: 10.5281/zenodo.17214513
 repository-code: https://github.com/sch0rschi/rflcs_alenex2026
 url: https://doi.org/10.5281/zenodo.17214513
